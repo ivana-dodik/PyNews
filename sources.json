@@ -1,0 +1,22 @@
+[
+    {
+        "tag":"rtrs",
+        "description":"RTRS",
+        "address":"https://www.rtrs.tv/vijesti/rss.php"
+    },
+    {
+        "tag":"bntv",
+        "description":"BNTV",
+        "address":"https://www.rtvbn.com/kategorija/vijesti/1"
+    },
+    {
+        "tag": "rts",
+        "description":"RTS",
+        "address":"https://m.rts.rs/page/stories/sr/rss/9/politika.html"
+    },
+    {
+        "tag": "hrt",
+        "description":"HRT",
+        "address":"https://feed.hrt.hr/vijesti/hrvatska.xml"
+    }
+]
